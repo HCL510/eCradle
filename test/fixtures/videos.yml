@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  uid: MyString
+  duration: 9.99
+  ziggeo_created_at: 2017-03-28 13:31:00
+  approved: false
+
+two:
+  user: two
+  uid: MyString
+  duration: 9.99
+  ziggeo_created_at: 2017-03-28 13:31:00
+  approved: false
