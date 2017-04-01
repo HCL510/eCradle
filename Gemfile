@@ -34,8 +34,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'paperclip', '~> 5.0.0'
 gem 'Ziggeo'
-
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+
+gem 'rails_bootstrap_navbar'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
